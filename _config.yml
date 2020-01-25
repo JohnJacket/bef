@@ -10,7 +10,7 @@ url: "https://hotpentesters.github.io/" # the base hostname & protocol for your 
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
+banner-title: HotPentesters # add banner title
 banner-desc: # add banner description
 
 # Author settings
