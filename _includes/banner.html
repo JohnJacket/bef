@@ -1,3 +1,13 @@
+<div class="video-background">
+  <div class="video-wrap">
+     <div id="video">
+       <video id="bgvid">
+         <source src=="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}" type="video/mp4">
+       </video>
+    </div>
+  </div>
+</div>
+
 
 <section id="banner" data-vide-bg="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}" data-vide-options="posterType: jpg, loop: true, muted: false, position: 50% 50%">
   <div class="wrapper">
