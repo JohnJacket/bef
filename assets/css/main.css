@@ -25,7 +25,7 @@ body {
   margin: 0;
 }
 
-body video {
+header video {
   position: absolute;
   top: 50%;
   left: 50%;
