@@ -25,6 +25,14 @@ body {
   margin: 0;
 }
 
+.video-background {
+   position: relative;
+   min-width: 100%;
+   min-height: 100vh;
+   width: 100%;
+   height: auto;
+}
+
 /**
  * Add the correct display in IE 9-.
  */
@@ -4915,3 +4923,5 @@ cite {
     font-size: 1.2rem;
   }
 }
+
+
